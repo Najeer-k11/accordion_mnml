@@ -2,10 +2,6 @@
 
 ## Features
  - Minimal Accordion widget. Use with ```AccordionMnmlWrapper``` only
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
 
 ```dart
 import 'package:accordion_mnml/accordion_mnml.dart';
